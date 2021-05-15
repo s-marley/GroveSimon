@@ -1,7 +1,7 @@
 # GroveSimon
 A Simon-like game on the Grove Beginner Kit from Seeed Studios
 ## YouTube Video
-[![YouTube Video](http://img.youtube.com/vi/qWHCSlenAYo.jpg)](https://www.youtube.com/watch?v=qWHCSlenAYo)
+[![YouTube Video](https://img.youtube.com/vi/qWHCSlenAYo/0.jpg)](https://www.youtube.com/watch?v=qWHCSlenAYo)
 ## Running the software
 1. Download the Github repository and extract the Simon folder
 2. Open Simon.ino in the Arduino IDE and upload it to your Grove Beginner Kit board
